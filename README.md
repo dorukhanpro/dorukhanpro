@@ -13,6 +13,8 @@ I’m a Computer Science graduate from Vrije Universiteit Amsterdam (2026), with
 
 Developed a computer-vision proof of concept using an ImageNet-pretrained ResNet18. The work explored transfer learning and fine-tuning, data augmentation, model evaluation, and Grad-CAM explanations. The selected validation split achieved **88.89% accuracy (224/252 images)**.
 
+[Companion training code and setup](https://github.com/dorukhanpro/rock-type-transfer-learning) (reference implementation; original thesis code and dataset are not included).
+
 ## Education
 **BSc Computer Science** — Vrije Universiteit Amsterdam  
 September 2021 – June 2026  
